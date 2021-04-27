@@ -25,3 +25,4 @@ new Vue({
 // git remote rm origin
 // git remote add origin https://github.com/liubingbing-520/bingshopmall.git
 // git push -u origin master
+// git pull --rebase origin master
